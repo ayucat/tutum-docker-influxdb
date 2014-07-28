@@ -1,5 +1,5 @@
-FROM ubuntu:trusty
-MAINTAINER Feng Honglin <hfeng@tutum.co>
+FROM ubuntu:utopic
+MAINTAINER ayucat <ayucat@lootopia.com>
  
 # Install InfluxDB
 RUN apt-get update
